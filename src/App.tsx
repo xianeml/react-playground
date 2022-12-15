@@ -1,4 +1,4 @@
-import BasicHookForm from "./components/BasicHookForm.tsx";
+import BasicHookForm from './components/BasicHookForm';
 
 function App() {
   return (
